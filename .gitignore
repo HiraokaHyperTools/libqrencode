@@ -54,3 +54,7 @@ use/missing
 html/
 massif.out.*
 gmon.out
+Debug Lib
+Release Lib
+*.ncb
+*.user
